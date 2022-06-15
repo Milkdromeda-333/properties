@@ -1,7 +1,6 @@
 const transitionPosibilities = [
 	"background-color",
 	"background-image",
-	"background-position",
 	"border-color",
 	"border-left-color",
 	"border-right-color",
@@ -10,10 +9,14 @@ const transitionPosibilities = [
 	"border-radius",
 	"color",
 	"font-size",
+	"font-family",
 	"text-shadow",
 	"width",
 	"letter-spacing",
-	"caret-color"
+	"rotate",
+	"height",
+	"opacity",
+	"cursor"
 	
 ]
 
